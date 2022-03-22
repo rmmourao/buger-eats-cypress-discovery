@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Rodrigo Mourão",
+    "cpf": "01064293964",
+    "email": "teste@teste.com",
+    "whatsapp": "44991234567",
+    "address": {
+      "postalcode": "87114073",
+      "street": "Rua Projetada C",
+      "number": "707",
+      "details": "Casa A",
+      "district": "Jardim São Paulo",
+      "city_state": "Sarandi/PR"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv": {
+    "name": "Fernando Papito",
+    "cpf": "010642939AA",
+    "email": "teste@teste.com",
+    "whatsapp": "44991234567",
+    "address": {
+      "postalcode": "87114073",
+      "street": "Rua Projetada C",
+      "number": "707",
+      "details": "Casa A",
+      "district": "Jardim São Paulo",
+      "city_state": "Sarandi/PR"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Rodrigo Mourão",
+    "cpf": "01064293964",
+    "email": "teste.com",
+    "whatsapp": "44991234567",
+    "address": {
+      "postalcode": "87114073",
+      "street": "Rua Projetada C",
+      "number": "707",
+      "details": "Casa A",
+      "district": "Jardim São Paulo",
+      "city_state": "Sarandi/PR"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
